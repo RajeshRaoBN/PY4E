@@ -1,0 +1,26 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Paste" count="1" />
+      <entry action="CloseProject" count="6" />
+      <entry action="EditorBackSpace" count="40" />
+      <entry action="EditorChooseLookupItem" count="1" />
+      <entry action="EditorCopy" count="2" />
+      <entry action="EditorDelete" count="1" />
+      <entry action="EditorDown" count="1" />
+      <entry action="EditorEnter" count="5" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorPaste" count="4" />
+      <entry action="EditorRight" count="1" />
+      <entry action="EditorTab" count="4" />
+      <entry action="NewDir" count="1" />
+      <entry action="NewPythonFile" count="4" />
+      <entry action="Replace" count="1" />
+      <entry action="Rerun" count="3" />
+      <entry action="Run" count="1" />
+      <entry action="RunClass" count="2" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
+    </counts>
+  </component>
+</application>

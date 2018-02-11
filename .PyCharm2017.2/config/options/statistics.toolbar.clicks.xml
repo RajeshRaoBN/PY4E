@@ -1,0 +1,9 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Rerun@RunnerToolbar" count="3" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$3@ToolbarDecorator" count="12" />
+      <entry action="org.jetbrains.plugins.ipnb.editor.actions.IpnbRunCellAction@IpnbEditor" count="5" />
+    </counts>
+  </component>
+</application>
